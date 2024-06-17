@@ -2,7 +2,7 @@ package Array;
 
 import java.util.Arrays;
 
-public class ArraySort {
+public class Array0501 {
     public static void main(String[] args) {
         int[] org = {4, 2, 3, 1, 5};
         int[] sorted = solution(org);
