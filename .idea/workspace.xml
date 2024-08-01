@@ -5,13 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1619844e-08aa-46bc-860a-22995fb4332e" name="Changes" comment="array example">
-      <change afterPath="$PROJECT_DIR$/src/Array/Array0502.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Array0503.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Array0504.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Array0505.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Array0506.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Array0507.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0819.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0820.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0821.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0822.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0823.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0824.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/CircularLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/ListInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/Queue0715.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/Queue0716.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/Queue0717.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/Set1030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/Set1031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/Set1032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/Set1033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0608.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0609.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0610.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0611.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0612.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0613.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0614.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Tree0925.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Tree0926.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Tree0927.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Tree0928.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Tree0929.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Array0501.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Array0504.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Array0504.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Array0506.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Array0506.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +47,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -45,18 +72,50 @@
     "Application.Array0503.executor": "Run",
     "Application.Array0504.executor": "Run",
     "Application.Array0505.executor": "Run",
+    "Application.Array0506.executor": "Run",
+    "Application.Array0507.executor": "Run",
     "Application.ArraySort.executor": "Run",
+    "Application.Hash0818.executor": "Run",
+    "Application.Hash0819.executor": "Run",
+    "Application.Hash0820.executor": "Run",
+    "Application.Hash0821.executor": "Run",
+    "Application.Hash0822.executor": "Run",
+    "Application.Hash0823.executor": "Run",
+    "Application.Queue0716.executor": "Run",
+    "Application.Queue0717.executor": "Run",
+    "Application.Set1032.executor": "Run",
+    "Application.Stack0608.executor": "Run",
+    "Application.Stack0609.executor": "Run",
+    "Application.Stack0612.executor": "Run",
+    "Application.Tree0927.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/osmin/workspace/ch4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Array0505">
-    <configuration name="Array0502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Array0502" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tree" />
+      <recent name="Hash" />
+      <recent name="Queue" />
+      <recent name="Stack" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Set1032">
+    <configuration name="Hash0820" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hash.Hash0820" />
       <module name="AlgorithmWithJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array0503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Array0503" />
+    <configuration name="Hash0821" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hash.Hash0821" />
       <module name="AlgorithmWithJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array0504" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Array0504" />
+    <configuration name="Hash0823" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hash.Hash0823" />
       <module name="AlgorithmWithJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +149,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array0505" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Array0505" />
+    <configuration name="Set1032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set.Set1032" />
       <module name="AlgorithmWithJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree0927" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.Tree0927" />
+      <module name="AlgorithmWithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +177,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array0505" />
-        <item itemvalue="Application.Array0504" />
-        <item itemvalue="Application.Array0503" />
-        <item itemvalue="Application.Array0502" />
+        <item itemvalue="Application.Set1032" />
+        <item itemvalue="Application.Tree0927" />
+        <item itemvalue="Application.Hash0823" />
+        <item itemvalue="Application.Hash0821" />
+        <item itemvalue="Application.Hash0820" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -120,6 +201,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718283595163</updated>
+      <workItem from="1721121480927" duration="1849000" />
+      <workItem from="1721182596431" duration="177000" />
+      <workItem from="1721182786667" duration="7725000" />
+      <workItem from="1721213012204" duration="13000" />
+      <workItem from="1721294578720" duration="52000" />
+      <workItem from="1721360693021" duration="1000" />
+      <workItem from="1721615008230" duration="8259000" />
+      <workItem from="1721696994781" duration="11174000" />
+      <workItem from="1721787654593" duration="3000" />
+      <workItem from="1721960321608" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="array example">
       <option name="closed" value="true" />
@@ -129,8 +220,19 @@
       <option name="project" value="LOCAL" />
       <updated>1718284101217</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="array example">
+      <option name="closed" value="true" />
+      <created>1718628098239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718628098239</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="array example" />
