@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1619844e-08aa-46bc-860a-22995fb4332e" name="Changes" comment="update code">
-      <change afterPath="$PROJECT_DIR$/src/Stack/BOJ10828.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/BOJ1918.java" afterDir="false" />
+    <list default="true" id="1619844e-08aa-46bc-860a-22995fb4332e" name="Changes" comment="stack">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/CircularLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/ListInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/BOJ1918.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/BOJ1918.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,6 +200,7 @@
       <workItem from="1724399314222" duration="1282000" />
       <workItem from="1724641535819" duration="1926000" />
       <workItem from="1724725627200" duration="648000" />
+      <workItem from="1724763474808" duration="2120000" />
     </task>
     <task id="LOCAL-00001" summary="array example">
       <option name="closed" value="true" />
@@ -229,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722488780247</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="stack">
+      <option name="closed" value="true" />
+      <created>1724763634166</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724763634166</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +243,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="array example" />
     <MESSAGE value="update code" />
-    <option name="LAST_COMMIT_MESSAGE" value="update code" />
+    <MESSAGE value="stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="stack" />
   </component>
 </project>
