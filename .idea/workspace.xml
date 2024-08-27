@@ -4,40 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1619844e-08aa-46bc-860a-22995fb4332e" name="Changes" comment="array example">
-      <change afterPath="$PROJECT_DIR$/src/Array/Array0507.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0818.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0819.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0820.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0821.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0822.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0823.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash/Hash0824.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/CircularLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/ListInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Queue0715.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Queue0716.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Queue0717.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set/Set1030.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set/Set1031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set/Set1032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set/Set1033.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0608.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0609.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0610.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0611.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0612.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0613.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack/Stack0614.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Tree0925.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Tree0926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Tree0927.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Tree0928.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Tree0929.java" afterDir="false" />
+    <list default="true" id="1619844e-08aa-46bc-860a-22995fb4332e" name="Changes" comment="update code">
+      <change afterPath="$PROJECT_DIR$/src/Stack/BOJ10828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/BOJ1918.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Array0504.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Array0504.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Array0506.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Array0506.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/CircularLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/ListInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/ListNode.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HiSeungmin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HiSeungmin/AlgorithmWithJava.git&quot;,
+    &quot;accountId&quot;: &quot;13d7302f-bbbe-43e7-829b-0511ba252570&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -66,41 +51,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Array0502.executor": "Run",
-    "Application.Array0503.executor": "Run",
-    "Application.Array0504.executor": "Run",
-    "Application.Array0505.executor": "Run",
-    "Application.Array0506.executor": "Run",
-    "Application.Array0507.executor": "Run",
-    "Application.ArraySort.executor": "Run",
-    "Application.Hash0818.executor": "Run",
-    "Application.Hash0819.executor": "Run",
-    "Application.Hash0820.executor": "Run",
-    "Application.Hash0821.executor": "Run",
-    "Application.Hash0822.executor": "Run",
-    "Application.Hash0823.executor": "Run",
-    "Application.Queue0716.executor": "Run",
-    "Application.Queue0717.executor": "Run",
-    "Application.Set1032.executor": "Run",
-    "Application.Stack0608.executor": "Run",
-    "Application.Stack0609.executor": "Run",
-    "Application.Stack0612.executor": "Run",
-    "Application.Tree0927.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/osmin/workspace/ch4",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array0502.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array0503.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array0504.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array0505.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array0506.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array0507.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ10828.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hash0818.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hash0819.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hash0820.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hash0821.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hash0822.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hash0823.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Queue0716.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Queue0717.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Set1032.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stack0608.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stack0609.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stack0612.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tree0927.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/osmin/workspace/boardPractice240820/ch4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Tree" />
@@ -109,13 +95,13 @@
       <recent name="Stack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Set1032">
-    <configuration name="Hash0820" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hash.Hash0820" />
+  <component name="RunManager" selected="Application.BOJ10828">
+    <configuration name="BOJ10828" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.BOJ10828" />
       <module name="AlgorithmWithJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hash.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ10828" />
         <item itemvalue="Application.Set1032" />
         <item itemvalue="Application.Tree0927" />
         <item itemvalue="Application.Hash0823" />
         <item itemvalue="Application.Hash0821" />
-        <item itemvalue="Application.Hash0820" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +197,13 @@
       <workItem from="1721696994781" duration="11174000" />
       <workItem from="1721787654593" duration="3000" />
       <workItem from="1721960321608" duration="31000" />
+      <workItem from="1722488735524" duration="4243000" />
+      <workItem from="1722927256901" duration="1482000" />
+      <workItem from="1724292444199" duration="1362000" />
+      <workItem from="1724332417299" duration="2948000" />
+      <workItem from="1724399314222" duration="1282000" />
+      <workItem from="1724641535819" duration="1926000" />
+      <workItem from="1724725627200" duration="648000" />
     </task>
     <task id="LOCAL-00001" summary="array example">
       <option name="closed" value="true" />
@@ -228,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718628098239</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update code">
+      <option name="closed" value="true" />
+      <created>1722488780247</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722488780247</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +237,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="array example" />
-    <option name="LAST_COMMIT_MESSAGE" value="array example" />
+    <MESSAGE value="update code" />
+    <option name="LAST_COMMIT_MESSAGE" value="update code" />
   </component>
 </project>
